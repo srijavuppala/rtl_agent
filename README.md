@@ -4,13 +4,6 @@
 
 End-to-end automated RTL generation from multiple input sources via a Two-Oracle agent with spec-derived conformance checking and action-constrained repair. Supports **multi-source input**: combine text, PDF, DOCX, audio, and video in a single run.
 
----
-
-## Contributors
-
-- **Srija Vuppala** — [github.com/srijavuppala](https://github.com/srijavuppala)
-
----
 
 ## Quick Start
 
